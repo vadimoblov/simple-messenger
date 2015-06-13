@@ -10,6 +10,6 @@ http.createServer(function (req, res) {
         'Content-Type': 'text/plain; charset=UTF-8'
     });
     
-    res.end('Hello from1 simple-messenger.\n');
+    res.end('Hello from simple-messenger.\n');
     
 }).listen(9080, "");
