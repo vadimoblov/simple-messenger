@@ -1,4 +1,23 @@
 {
+    "name": "Hello World",
+    "description": "",
+    "version": "0.0.1",
+    "main": "./Hello World.js",
+    "author": {
+        "name": "vadimoblov",
+        "email": "vadimoblov@gmail.com"
+    },
+    "keywords": [],
+    "licenses": {
+        "type": "wp-gpl20"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/vadimoblov/Hello World.git"
+    },
+    "bugs": {
+        "url": "http://github.com/vadimoblov/Hello World/issues"
+    }
   "name" : "simple-messenger",
   "version" : "0.0.1",
   "main" : "./simple-messenger.js",
