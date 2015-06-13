@@ -10,6 +10,10 @@
   "licenses" : {
     "type" : "wp-gpl20"
   },
+  "dependencies": {
+    "socket.io": "~0.9.6",
+    "mime": "~1.2.7"
+    },
   "repository" : {
     "type" : "git",
     "url" : "git://github.com/vadimoblov/simple-messenger.git"
